@@ -1,5 +1,5 @@
 # SMBAbundanceData
-Reads an abundance data excel file and creates or updates an existing abundance data excel file.
+Reads an occupancy data excel file and creates or updates an existing abundance data excel file.
 
 
 Things to rememember:
@@ -9,4 +9,4 @@ Things to rememember:
   -it only copies over data from occupancy that has nothing in the "Proofed by" column.
 
 
-Repository intended for use by LSU Secretive Marsh Bird research project to allow increase accuracy and speed of data entry.
+Repository intended for use by LSU Secretive Marsh Bird research project to increase accuracy and speed of data entry.
