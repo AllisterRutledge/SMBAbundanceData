@@ -71,7 +71,7 @@ def user_continue(excel_file_name, excel_sheet_name, output_word, additional_opt
     return True
 
 
-# use try/except statement to catch print any error before the console window closes.
+# use try/except statement to catch and print any error before the .exe console window closes.
 try:
 
     # create abundance df from occupancy excel file.
